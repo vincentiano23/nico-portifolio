@@ -1,0 +1,19 @@
+Place Nicholas's video clips in this folder.
+
+Recommended filenames (referenced in index.html):
+
+  showreel.mp4         — featured video at top of video section
+  leak-fix.mp4         — thumbnail video 1
+  heater-install.mp4   — thumbnail video 2
+  drain-unblock.mp4    — thumbnail video 3
+  bathroom-pipe.mp4    — thumbnail video 4
+
+Keep each clip under 50 MB for fast loading on mobile.
+Use MP4 (H.264) format for maximum browser compatibility.
+
+Until you add real videos, the video thumbnails will still display
+with their poster images — clicking them opens a video player modal
+that will show "no source" until the MP4 files exist. This is fine
+for the first deploy; just add the videos later.
+
+See README.md in the project root for full instructions.
